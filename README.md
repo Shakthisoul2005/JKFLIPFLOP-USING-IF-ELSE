@@ -63,8 +63,6 @@ nand(qbar,q,nand2_out);
 
 endmodule
 ```
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2024-12-22 174727](https://github.com/user-attachments/assets/e6634f57-527a-4e4a-891e-c966c719a702)
